@@ -1,5 +1,5 @@
 # open_cw_keyer_minimal
-Verwendet die Hardware von K3NG. Der Sketch ist auf die wesentlichen Funktionen ausgerichtet, die man für CW braucht und kommt mit 440 Codezeilen aus.
+Verwendet die Hardware von K3NG: https://github.com/k3ng/k3ng_cw_keyer. Der Sketch ist auf die wesentlichen Funktionen ausgerichtet, die man für CW braucht und kommt mit 440 Codezeilen aus.
 
 Folgende Anweisungen versteht der Sketch:
 
