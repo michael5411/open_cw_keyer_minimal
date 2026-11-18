@@ -25,3 +25,5 @@ Das Ausgabetempo wird auch dafür wieder am Poti gewählt.  Mit der Funktion
 Mit dieser Funktion kann man auch recht gut Üben.  Mit SET + Y geht man auf Sendung. Hat der TX seinen eigenen Mithörton und möchte man nur diesen Ton hören, dann wählt man SET + Y. 
 PTT wird im übrigen wie beim „großen Bruder“ geschaltet. Die Ausgänge sind mit Optokopplern ausgestattet.
 
+vy 73  
+Michael | DL1MKP
