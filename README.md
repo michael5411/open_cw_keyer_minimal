@@ -20,6 +20,8 @@ Um einen CQ-Ruf im eingestellten Tempo ein zu geben, ist der Ablauf so:
 
 Wenn ein Fehler aufgetreten ist, hört man bei 5.) einen tieferen Ton. Dann muss noch mal neu gestartet werden. In der Praxis ist dieser Ablauf einfach zu beherrschen.
 
-Um einen Speicher auf Sendung zu bringen, reicht es aus, die Taste 1 oder 2 zu drücken. Zum Abbrechen drückt man die gleiche Taste noch einmal. Das Ausgabetempo wird auch dafür wieder am Poti gewählt.  Mit der Funktion SET + X hört man sich einen Speicherinhalt an, ohne zu senden. Mit dieser Funktion kann man auch recht gut Üben.  Mit SET + Y geht man auf Sendung. Hat der TX seinen eigenen Mithörton und möchte man nur diesen Ton hören, dann wählt man SET + Y. 
+Um einen Speicher auf Sendung zu bringen, reicht es aus, die Taste 1 oder 2 zu drücken. Zum Abbrechen drückt man die gleiche Taste noch einmal. 
+Das Ausgabetempo wird auch dafür wieder am Poti gewählt.  Mit der Funktion SET + X hört man sich einen Speicherinhalt an, ohne zu senden. 
+Mit dieser Funktion kann man auch recht gut Üben.  Mit SET + Y geht man auf Sendung. Hat der TX seinen eigenen Mithörton und möchte man nur diesen Ton hören, dann wählt man SET + Y. 
 PTT wird im übrigen wie beim „großen Bruder“ geschaltet. Die Ausgänge sind mit Optokopplern ausgestattet.
 
