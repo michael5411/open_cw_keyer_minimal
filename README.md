@@ -4,13 +4,9 @@ Verwendet die Hardware von K3NG. Der Sketch ist auf die wesentlichen Funktionen 
 Folgende Anweisungen versteht der Sketch:
 
 Memory 1 oder 2 belegen:	SET + P#
-
 Buzzer ohne TX:		SET + X 
-
 Buzzer und TX ansteuern:	SET + O
-
 Buzzer aus, TX ansteuern:	SET + Y
-
 Buzzer ein: 			SET + B
 
 Die Zeichen P, X, O, Y und B werden in dem Tempo eingegeben, das mit dem Poti eingestellt wurde. Die SET-Taste wird gedrückt, dann die Anweisung per Morsezeichen eingegeben.  
